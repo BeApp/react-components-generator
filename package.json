@@ -1,5 +1,5 @@
 {
-  "name": "react-components-generator",
+  "name": "@beappers/react-components-generator",
   "version": "1.0.0",
   "description": "Generate React Component in a Row. Usefull when bootstraping projects !",
   "main": "index.mjs",
