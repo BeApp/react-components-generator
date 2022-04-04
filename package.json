@@ -1,6 +1,6 @@
 {
   "name": "@beappers/react-components-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate React Component in a Row. Usefull when bootstraping projects !",
   "main": "index.mjs",
   "repository": "https://github.com/BeApp/react-components-generator",
