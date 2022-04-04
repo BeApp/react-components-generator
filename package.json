@@ -7,7 +7,7 @@
   "author": "Mathis Barré <m.barre@beapp.fr>",
   "license": "MIT",
   "private": false,
-  "devDependencies": {
+  "dependencies": {
     "zx": "^6.0.7"
   }
 }
